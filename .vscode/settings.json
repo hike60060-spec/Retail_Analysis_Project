@@ -1,0 +1,13 @@
+{
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "entity.name.section.group-title.ini",
+        "settings": {
+          "foreground": "#fdfeff"
+        }
+      }
+    ]
+},
+"python-envs.defaultEnvManager": "ms-python.python:pipenv"
+}

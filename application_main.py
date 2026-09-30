@@ -32,3 +32,5 @@ aggregated_results = DataManipulation.count_orders_state(joined_df)
 aggregated_results.show(50)
 
 logger.info("This is the end of main")
+
+logger.info("This is the end of main")
